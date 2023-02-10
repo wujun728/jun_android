@@ -1,0 +1,15 @@
+.gradle/
+
+# Android Studio
+/.idea
+/local.properties
+/captures
+build/
+.DS_Store
+*.iml
+.externalNativeBuild
+
+# vscode
+.settings/
+.classpath
+.project%
